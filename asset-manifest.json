@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/bestapplyreactjs/static/css/main.835ebee4.chunk.css",
-    "main.js": "/bestapplyreactjs/static/js/main.d0c83689.chunk.js",
-    "main.js.map": "/bestapplyreactjs/static/js/main.d0c83689.chunk.js.map",
+    "main.css": "/bestapplyreactjs/static/css/main.cf01e9df.chunk.css",
+    "main.js": "/bestapplyreactjs/static/js/main.7a48e0ca.chunk.js",
+    "main.js.map": "/bestapplyreactjs/static/js/main.7a48e0ca.chunk.js.map",
     "runtime-main.js": "/bestapplyreactjs/static/js/runtime-main.6f2b7207.js",
     "runtime-main.js.map": "/bestapplyreactjs/static/js/runtime-main.6f2b7207.js.map",
     "static/css/2.74c02967.chunk.css": "/bestapplyreactjs/static/css/2.74c02967.chunk.css",
-    "static/js/2.fa93b18e.chunk.js": "/bestapplyreactjs/static/js/2.fa93b18e.chunk.js",
-    "static/js/2.fa93b18e.chunk.js.map": "/bestapplyreactjs/static/js/2.fa93b18e.chunk.js.map",
+    "static/js/2.96009275.chunk.js": "/bestapplyreactjs/static/js/2.96009275.chunk.js",
+    "static/js/2.96009275.chunk.js.map": "/bestapplyreactjs/static/js/2.96009275.chunk.js.map",
     "static/js/3.7dca0e68.chunk.js": "/bestapplyreactjs/static/js/3.7dca0e68.chunk.js",
     "static/js/3.7dca0e68.chunk.js.map": "/bestapplyreactjs/static/js/3.7dca0e68.chunk.js.map",
     "index.html": "/bestapplyreactjs/index.html",
     "static/css/2.74c02967.chunk.css.map": "/bestapplyreactjs/static/css/2.74c02967.chunk.css.map",
-    "static/css/main.835ebee4.chunk.css.map": "/bestapplyreactjs/static/css/main.835ebee4.chunk.css.map",
-    "static/js/2.fa93b18e.chunk.js.LICENSE.txt": "/bestapplyreactjs/static/js/2.fa93b18e.chunk.js.LICENSE.txt",
+    "static/css/main.cf01e9df.chunk.css.map": "/bestapplyreactjs/static/css/main.cf01e9df.chunk.css.map",
+    "static/js/2.96009275.chunk.js.LICENSE.txt": "/bestapplyreactjs/static/js/2.96009275.chunk.js.LICENSE.txt",
     "static/media/about03.png": "/bestapplyreactjs/static/media/about03.cfd64c59.png",
     "static/media/banner1.jpg": "/bestapplyreactjs/static/media/banner1.34250017.jpg",
     "static/media/banner2.jpg": "/bestapplyreactjs/static/media/banner2.d9e2c231.jpg",
@@ -38,8 +38,8 @@
   "entrypoints": [
     "static/js/runtime-main.6f2b7207.js",
     "static/css/2.74c02967.chunk.css",
-    "static/js/2.fa93b18e.chunk.js",
-    "static/css/main.835ebee4.chunk.css",
-    "static/js/main.d0c83689.chunk.js"
+    "static/js/2.96009275.chunk.js",
+    "static/css/main.cf01e9df.chunk.css",
+    "static/js/main.7a48e0ca.chunk.js"
   ]
 }
