@@ -17,7 +17,7 @@ function App() {
       <Headerpage/>
       <Contentage/>
      <Footerpage/>
-<Loop/>
+
 
 
      </BrowserRouter>
