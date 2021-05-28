@@ -17,11 +17,7 @@ function App() {
       <Headerpage/>
       <Contentage/>
      <Footerpage/>
-
-
-
-     </BrowserRouter>
-     
+     </BrowserRouter>    
     </div>
   );
 }
