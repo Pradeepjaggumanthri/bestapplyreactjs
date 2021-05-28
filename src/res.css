@@ -1,0 +1,128 @@
+@charset "utf-8";
+
+/* CSS Document */
+
+@media only screen and (max-width:1199px) {
+    .bodysection1a h3 {
+        font-size: 40px;
+    }
+    .section-textbms {
+        width: 80%;
+    }
+    .bodysection1a h4 {
+        font-size: 22px;
+    }
+}
+
+@media only screen and (max-width:991px) {
+    .BMS-navmenu nav a.navbar-brand {
+        max-width: 190px;
+    }
+    .section-textbms {
+        width: 100%;
+        margin: 20px 0px;
+    }
+    .content-section1ss span {
+        padding: 10px;
+        border-radius: 100%;
+        background-color: #0b6df6;
+        width: 50px;
+        height: 50px;
+        display: inherit;
+        text-align: center;
+        color: white;
+        font-size: 20px;
+        float: none;
+        margin: 0px auto;
+    }
+  
+    .banner-side {
+        max-width: 100%;
+        height: auto;
+        position: relative;
+        left: 0px;
+        top: 0px;
+        width: auto;
+        margin: 20px 0px;
+    }
+    .bg-bmsviewer {
+        display: inline-block;
+        width: 100%;
+        height: auto;
+        background-color: rgba(255, 255, 255, 0.8);
+        text-align: center;
+        padding: 30px;
+        margin: 12% 0px;
+        float: none;
+        max-width: 340px;
+    }
+    .bodysection2a {
+        text-align: center;
+    }
+    .bodysection3b {
+        margin: 20px 0px;
+        text-align: center;
+    }
+    .bodysection1a h3 {
+        font-size: 30px;
+    }
+    .footer-section1a,
+    .footer-section2a {
+        margin: 5px 0px;
+    }
+}
+
+@media only screen and (max-width:767px) {
+    .bodysection4a h1 {
+        font-family: 'Montserrat', sans-serif;
+        font-size: 22px;
+        text-transform: capitalize;
+        font-weight: 500;
+        margin: 0px;
+        color: #585858;
+    }
+    .phone-addressgrp {
+        margin: 10px 0px;
+        text-align: center;
+    }
+    .social-bms,
+    .phone-adress {
+        float: none;
+        display: inline-block;
+    }
+    .BMS-navmenu nav>.collapse.navbar-collapse ul li a {
+        padding: 5px;
+        text-align: center;
+    }
+    .bodysection1a h3,
+    .header-innerbanner1a h1 {
+        font-size: 24px;
+    }
+    .bg-bmsviewer h3 {
+        font-family: 'Montserrat', sans-serif;
+        margin: 0px;
+        text-transform: uppercase;
+        color: #393939;
+        font-size: 20px;
+        font-weight: 500;
+        padding: 30px 0px;
+        border: 2px solid #c9e0f3;
+    }
+    .bodysection3a h1 {
+        font-family: 'Montserrat', sans-serif;
+        font-size: 24px;
+        text-transform: uppercase;
+        font-weight: 500;
+        margin: 0px;
+        color: #585858;
+    }
+    .products-content a {
+        display: inline-block;
+        font-size: 18px;
+        font-weight: 500;
+        text-transform: uppercase;
+        text-decoration: none !important;
+        color: #585858 !important;
+        padding: 10px 0px;
+    }
+}
